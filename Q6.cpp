@@ -1,3 +1,5 @@
+//Quantum Key Generator
+
 #include <iostream>
 #include <bitset>
 using namespace std;
