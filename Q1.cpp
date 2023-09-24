@@ -1,6 +1,4 @@
-/*Assignment 2 
-Muhammad Sameer
-23i-0634 CS-D*/
+// One stupid task of printing a calculaton without using spaces or manual repitions. I swear they just like torturing us T_T
 
 #include <iostream>
 #include <iomanip>
