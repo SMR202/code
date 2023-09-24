@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    float N, i;
+    double N, i;
     int b, p;
     const int c=30;
 
@@ -18,9 +18,9 @@ int main()
     cout << "What is the yearly interest rate?" << endl; 
     cin >> i;
 
-    i=i/365;
+    i=i/365.0;
 
-    N = (-1/c)*(log(1+(b/p)*(1-pow(1+i,c))))/(log(1+i)); //Formula
+    N = ((-1.0)/c)*((log(1.0+(b/p)*(1.0-pow(1.0+i,c))))/(log(1.0+i))); //Formula
 
 
     cout << "The time it will take to pay off this credit card loan is " << N << endl;
