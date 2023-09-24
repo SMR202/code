@@ -1,3 +1,4 @@
+//WaterBill with varying rates. (can't use if else etc.)
 
 #include <iostream>
 #include <iomanip>
