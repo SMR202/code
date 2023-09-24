@@ -1,3 +1,7 @@
+
+/*Write a program that accepts three non-negative integers from the user and print “true” if two or
+more of them (Integers) have the same rightmost digit*/
+
 #include <iostream>
 using namespace std;
 
