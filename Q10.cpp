@@ -1,3 +1,5 @@
+//Identifying the color assigned to a number and determining if the both numbers have the same color
+
 #include <iostream>
 using namespace std;
 
