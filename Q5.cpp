@@ -1,3 +1,5 @@
+ //program determines whether a month times the day is equal to the year
+
 #include <iostream>
 using namespace std;
 
