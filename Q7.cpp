@@ -1,3 +1,5 @@
+//Binary to Grey Code Converter
+
 #include <iostream>
 #include <bitset>
 using namespace std;
