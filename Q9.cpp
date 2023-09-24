@@ -1,3 +1,5 @@
+//Max and Second max number with a lot of restrictions by the professor 
+
 #include <iostream>
 using namespace std;
 
